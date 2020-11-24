@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    min-height:100vh; 
+    text-align: center;
+    background-color:aliceblue;
+    color: rgb(30, 26, 80); 
+    font-size: 20px; 
+    height:100%; 
+}
+div{
+    padding: 10%;
+    padding-top: 0px;
+    padding-bottom: 0%;
+}
+h1,h3{   
+    color:rgb(99, 65, 253);
+}
+
+li{
+    list-style-type: disc;
+    list-style-position: inside;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+}
+a:hover{
+    text-decoration: underline;
+}
+ul>li{
+    list-style-type: none;
+}
+img{
+    padding:none;
+    width: 450px;
+    height: 300px;
+}
